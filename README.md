@@ -1,17 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Lorne, an <a href="https://linkedin.com/in/Josh">IT Professional
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-<!--
-**medic107/medic107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>osTicket (Help Desk Ticketing System)</b>
+  
+  - [osTicket: Post-Installation Configuration](https://github.com/medic107/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/medic107/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring  Active Directory within Azure VMs](https://github.com/medic107/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
-Here are some ideas to get you started:
+<h2>🤳Connect with me:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-hi my name is Lorne
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/Josh
